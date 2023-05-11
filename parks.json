@@ -1,0 +1,65 @@
+{
+    "parks" : [
+        {
+            "parkId": 001,
+            "name": "Aaron",
+            "location": "Dryden",
+            "activities": [
+                {
+                    "biking":true,
+                    "mountain biking": false,
+                    "boating": true,
+                    "canoeing": true,
+                    "dark sky": false,
+                    "disc golf": false,
+                    "discovery program": false,
+                    "dogsledding": false,
+                    "fishing": true,
+                    "hiking": true,
+                    "night hiking": false,
+                    "horseback riding": false,
+                    "hunting": false,
+                    "ice skating": false,
+                    "kite boarding": false,
+                    "rock climbing": false,
+                    "skiing": false,
+                    "snowmobiling": false,
+                    "snowshoeing": false,
+                    "swimming": true,
+                    "tobogganing": false,
+                    "whitewater rafting": false
+                }
+            ],
+            "camping": [
+                {
+                    "backcountry": 0,
+                    "car camping": 91,
+                    "dog-free": 0,
+                    "electrical": 55,
+                    "group": 1,
+                    "radio-free": 0,
+                    "rv": 38,
+                    "seasonal": 42,
+                    "total": 91
+                }
+            ],
+            "trails": [
+       
+                        {
+                            "trailNumber": 01,
+                            "trailName": "Aspen Trail",
+                            "distance": 2,
+                            "difficulty": "moderate",
+                            "type": null
+                        },
+                        {
+                            "trail": 02,
+                            "trailName": "Eastern White Ceder Trail",
+                            "distance": 1.2,
+                            "difficulty": "easy",
+                            "type": "loop"
+                        }
+                    ],
+        }
+    ]
+}
